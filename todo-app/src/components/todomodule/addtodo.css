@@ -1,0 +1,32 @@
+.todo-enter-container{
+    max-width:80%;
+    margin:auto;
+    margin-top:5em;
+}
+
+.task-entry{
+    background-color: #EBF1F5;
+    padding-block:0.5em;
+    padding-inline:0.5em;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.task-entry input{
+    border:none;
+    background-color: #EBF1F5;
+    font-size:1rem;
+    outline: none;
+    
+}
+
+.submitBtn{
+    border:none;
+    background-color: #3D79B1;
+    color:#ffff;
+    border-radius: 18px;
+    padding-block:0.4em;
+    padding-inline:0.5em;
+}

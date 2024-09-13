@@ -1,0 +1,25 @@
+.task-container{
+    box-shadow: 7px 8px 5px 0px rgba(245,245,245,0.75);
+    border: 1px solid #F8F8FC;
+    border-radius: 10px;
+    margin-top:2em;
+}
+
+.task-list{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    gap:1em;
+    padding-left:1em;
+}
+
+.status-dropdown{
+    margin-top:2em;
+    text-align: right;
+}
+
+.status-dropdown select{
+    border-radius:10px;
+    border:none;
+    font-size:1rem;
+}

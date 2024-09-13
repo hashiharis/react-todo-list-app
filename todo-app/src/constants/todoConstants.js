@@ -1,0 +1,12 @@
+export const VISIBILITY_STATUS={
+    SHOW_ALL:"SHOW_ALL",
+    PENDING:"PENDING",
+    COMPLETED:"COMPLETED"
+}
+
+export const TASK_STATUS={
+    TASK_PENDING:"PENDING",
+    TASK_COMPLETED:"COMPLETED"
+}
+
+export const TODO_SLICE_NAME="todo";
